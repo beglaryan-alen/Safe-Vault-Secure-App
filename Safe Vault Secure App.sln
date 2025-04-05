@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Safe Vault Secure App", "Safe Vault Secure App\Safe Vault Secure App.csproj", "{0EDBE01E-D637-4E94-BDA0-C2FA2899EA95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EDBE01E-D637-4E94-BDA0-C2FA2899EA95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EDBE01E-D637-4E94-BDA0-C2FA2899EA95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EDBE01E-D637-4E94-BDA0-C2FA2899EA95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EDBE01E-D637-4E94-BDA0-C2FA2899EA95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63BFFFD9-C6DC-46C6-AC2B-BB9C868DFD16}
+	EndGlobalSection
+EndGlobal
